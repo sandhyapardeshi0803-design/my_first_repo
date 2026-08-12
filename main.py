@@ -1,5 +1,5 @@
 def greet_user(name):
-    return f"Hello, {name}!"
+    return f"Hey, {name}!"
 
 
 def add_numbers(a, b):
@@ -7,7 +7,7 @@ def add_numbers(a, b):
 
 
 if __name__ == "__main__":
-    name = "Shubham"
+    name = "Sandhya"
 
     print(greet_user(name))
 
