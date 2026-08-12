@@ -6,5 +6,5 @@ def multiply_numbers(a, b):
     return a * b
 
 
-print("Addition:", add_numbers(10, 20))
-print("Multiplication:", multiply_numbers(10, 20))
+print("Addition:", add_numbers(30, 20))
+print("Multiplication:", multiply_numbers(30, 20))
